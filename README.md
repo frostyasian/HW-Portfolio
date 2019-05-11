@@ -1,2 +1,3 @@
 # HW-Portfolio
-Homework One - Portfolio 
+https://frotyasian.github.io/HW-Portfolio/index.html
+
